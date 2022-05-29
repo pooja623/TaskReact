@@ -1,0 +1,104 @@
+.header {
+  display: flex;
+  margin-left: 2%;
+}
+
+.Layout {
+
+  display: flex;
+
+
+  padding: 40px;
+
+  border: 0;
+  border-radius: 5px;
+
+
+  height: 5vh;
+  justify-content: baseline;
+  margin-left: 15%;
+
+
+}
+
+/* width: 600px;
+    justify-content: space-between;
+    margin: 5px; */
+
+/* } */
+.Box {
+
+  box-sizing: border-box;
+  font-size: 18px;
+  height: 39px;
+  width: 600px;
+  border: 1px solid #E6E6E6;
+  border-radius: 5px;
+  margin-left: 5%;
+
+
+
+}
+
+.capacity {
+  box-sizing: border-box;
+  font-size: 18px;
+  height: 39px;
+  width: 600px;
+  border: 1px solid #E6E6E6;
+  border-radius: 5px;
+  margin-left: 4%;
+
+}
+
+.name {
+  box-sizing: border-box;
+  font-size: 18px;
+  height: 39px;
+  width: 601px;
+  border: 1px solid #E6E6E6;
+  border-radius: 5px;
+  margin-left: 5.4%;
+}
+
+.checkbox {
+  box-sizing: border-box;
+  height: 20px;
+  width: 100px;
+
+}
+
+.image {
+  box-sizing: border-box;
+  font-size: 20px;
+  margin-left: 10%;
+  padding-bottom: 80px;
+
+}
+
+.btn1 {
+  box-sizing: border-box;
+  background-color: rgb(12, 47, 94);
+  color: white;
+  font-size: 20px;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: .5rem .8rem .5rem .8rem;
+
+  margin-left: 0.02%;
+
+
+
+}
+
+.btn2 {
+  box-sizing: border-box;
+  color: white;
+  background-color: rgba(255, 0, 0);
+  font-size: 22px;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: .5rem .8rem .5rem .8rem;
+  margin-bottom: 50%;
+
+}
